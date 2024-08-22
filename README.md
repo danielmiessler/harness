@@ -4,8 +4,6 @@
 
 # `harness`
 
-![Static Badge](https://img.shields.io/badge/mission-super_basic_prompt_evals)
-<br />
 ![GitHub top language](https://img.shields.io/github/languages/top/danielmiessler/harness)
 ![GitHub last commit](https://img.shields.io/github/last-commit/danielmiessler/harness)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
