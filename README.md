@@ -1,6 +1,6 @@
 <div align="center">
 
-![harness_logo](https://github.com/user-attachments/assets/f4eff8fa-116d-42bc-aa62-7fdcc6ba5c07)
+<img src="https://github.com/user-attachments/assets/f4eff8fa-116d-42bc-aa62-7fdcc6ba5c07" alt="harness_logo" width="400" height="400">
 
 # `harness`
 
