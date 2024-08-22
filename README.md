@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="[./images/fabric-logo-gif.gif](https://github.com/user-attachments/assets/3755f372-bc72-4027-986f-7cbd1c534e4e)" alt="harnesslogo" width="400" height="400"/>
+![harness_logo](https://github.com/user-attachments/assets/f4eff8fa-116d-42bc-aa62-7fdcc6ba5c07)
 
 # `harness`
 
-![Static Badge](https://img.shields.io/badge/mission-human_flourishing_via_AI_augmentation-purple)
+![Static Badge](https://img.shields.io/badge/mission-super_basic_prompt_evals)
 <br />
-![GitHub top language](https://img.shields.io/github/languages/top/danielmiessler/fabric)
-![GitHub last commit](https://img.shields.io/github/last-commit/danielmiessler/fabric)
+![GitHub top language](https://img.shields.io/github/languages/top/danielmiessler/harness)
+![GitHub last commit](https://img.shields.io/github/last-commit/danielmiessler/harness)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p class="align center">
